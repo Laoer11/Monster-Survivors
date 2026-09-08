@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 944953188b94e4e41ad6994826ea3282, type: 3}
+  m_Name: Ab_Fireball
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterSurvivors.AbilityData
+  abilityType: 0
+  abilityName: "\u706B\u7403\u672F"
+  description: "\u5411\u6700\u8FD1\u654C\u4EBA\u53D1\u5C04\u706B\u7403"
+  icon: {fileID: 0}
+  isWeaponAbility: 1
+  isActiveAbility: 1
+  maxLevel: 5
+  abilityPrefab: {fileID: 8350095216434531681, guid: 2ef25dd9d6b0c3e488147be659bdfac0,
+    type: 3}

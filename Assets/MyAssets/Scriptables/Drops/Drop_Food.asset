@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 588f8c3968862384f910f80059b4b7a7, type: 3}
+  m_Name: Drop_Food
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterSurvivors.DropData
+  dropType: 2
+  dropName: "\u98DF\u7269"
+  sprite: {fileID: 21300000, guid: 082dce0d77c79bf4d89d938191fd00c4, type: 3}
+  prefab: {fileID: 5804245651291502571, guid: 7c2a5bcbb70584f4682b84899570f221, type: 3}
+  value: 20
